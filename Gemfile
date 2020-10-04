@@ -6,6 +6,7 @@ gem "jekyll-sitemap"
 gem "jekyll-gist"
 gem "octopress"
 gem "sassc"
+gem "kramdown-parser-gfm"
 
 group :jekyll_plugins do
    gem "jekyll-paginate"

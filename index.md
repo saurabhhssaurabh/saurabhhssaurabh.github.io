@@ -1,26 +1,15 @@
 ---
 layout: page #was "home", but I don't need the latest blog feed template on the homepage
-title: Welcome
-excerpt: "The personal website of Grant R. McDermott."
+title: Hi!
+excerpt: "The personal website of Evgeniia Razumovskaia."
 tags: [Jekyll, theme, responsive, blog, template]
-image:
-  feature: rallarvegen-crop.jpg
-  credit: "@grant_mcdermott"
-  creditlink: https://twitter.com/grant_mcdermott
 ---
 
-I am an assistant professor of economics at the University of Oregon. My research fields are environmental and resource economics, where I study the interactions between human and natural systems in applied settings (i.e. using empirical techniques and data). Broadly speaking, I am interested in questions like: 
+I am a first year PhD student at the University of Cambridge. 
 
-- How do changes in environmental conditions affect the economy, and vice versa? 
-- How should societies manage their natural resources when they are faced with uncertainty? 
-- Do environmental policies function as intended, or are there unexpected consequences?
-- Etc.
+I am interested in all things about languages, maths and their beautiful intersections such as computational linguistics. In my time off, I really enjoy arts, music and looong walks.
 
-To answer these questions, I rely on a mix of tools that includes classical econometrics, Bayesian methods, geospatial computation, and newer data science tools like machine learning. 
-
-Alongside my regular research, I spend quite a lot time thinking about how to promote better coding practices among social scientists (including, most of all, myself). I am an advocate for open and reproducible science, as well as open-source software. You can find various materials along these lines on my website.
-
-Please feel free to contact me at the links provided on this website, or at the following address: Department of Economics, 1285 University of Oregon, Eugene, OR 97403-1285, USA
+If you have any questions, feel free to contact me by email!  
 
 <!--
 <p class="rss-subscribe">Subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}" target="_blank">via RSS</a>.</p>

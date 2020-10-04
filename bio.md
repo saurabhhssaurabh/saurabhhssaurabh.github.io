@@ -4,9 +4,6 @@ title: Bio
 tags: [about, bio]
 modified: 2016-04-09T19:50:01.573882-04:00
 comments: false
-image:
-  feature: groenberg-crop.jpg
-  credit: L. McDermott
 ---
 
 I originally hail from the Cape Winelands of South Africa. I attended the University of Cape Town for my Bachelor studies, graduating with double honours degrees in economics and business science in 2005.

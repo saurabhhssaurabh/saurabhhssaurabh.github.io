@@ -3,24 +3,24 @@
 - title: Home
   url:
 
-- title: Bio
-  url: /bio/
+# - title: Bio
+#   url: /bio/
+
+- title: News
+  url: /news/
 
 - title: Research
   url: /research/
 
-- title: Teaching
-  url: /teaching/
-
-- title: Vita
+- title: CV
   url: /vita/mcdermott-vita.pdf
   #url: /vita/
 
-- title: Software
-  url: /software/
+# - title: Software
+#   url: /software/
 
-- title: Blog
-  url: /blog/
+# - title: Blog
+#   url: /blog/
 
-- title: TWEEDS
-  url: https://tweeds.io/
+# - title: TWEEDS
+#   url: https://tweeds.io/
