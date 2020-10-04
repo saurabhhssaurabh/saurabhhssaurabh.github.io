@@ -2,7 +2,6 @@
 
 title: Evgeniia Razumovskaia
 locale: en_US
-url: https://grantmcdermott.com
 ## To build the website locally, comment out the previous line and run
 ## in terminal: 'bundle ex jekyll serve'. The website will be hosted at
 ## 'localhost:4000'.
@@ -46,7 +45,7 @@ titlecase: true
 # Site owner
 owner:
   name: Evgeniia Razumovskaia
-  avatar: my_photo_squared.jpg
+  avatar: images/my_photo_squared.jpg
   bio: "PhD student</br>University of Cambridge"
   email: er563@cam.ac.uk
   # disqus-shortname: grantmcdermott-blog
