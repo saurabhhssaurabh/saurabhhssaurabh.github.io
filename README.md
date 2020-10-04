@@ -1,5 +1,5 @@
-# grantmcdermott.com
+# Evgeniia Razumovskaia's personal website
 
-Source code for <www.grantmcdermott.com>.
+This webpage is based on [Grant McDermot website](https://github.com/grantmcdermott/grantmcdermott.github.io), which, in turn, is based on Minimal Mistakes theme.  
 
 The website was built using GitHub pages, Jekyll and the very cool *Minimal Mistakes* theme (with minor tweaks) from [Michael Rose](http://twitter.com/mmistakes). Take a look at the [Minimal Mistakes website](http://mmistakes.github.io/minimal-mistakes) for detailed instructions about creating your own website using this theme.
