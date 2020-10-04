@@ -2,7 +2,6 @@
 
 title: Evgeniia Razumovskaia
 locale: en_US
-url: evgeniiaraz.github.io
 ## To build the website locally, comment out the previous line and run
 ## in terminal: 'bundle ex jekyll serve'. The website will be hosted at
 ## 'localhost:4000'.
