@@ -11,15 +11,33 @@ comments: false
 
 ## Publications
 
-6. "Alternate explanations for the blue paradox do not withstand statistical scrutiny." With Kyle C. Meng, Gavin G. McDonald and Christopher J. Costello. Published in **<i>Proceedings of the National Academy of Sciences</i>**, 115 (52), E12124–E12125, 2018. ([Paper](https://doi.org/10.1073/pnas.1818687115){:target="_blank"}. [Ungated](http://grantmcdermott.com/papers/mcdermott2019blueparadox-reply.pdf){:target="_blank"}. [Code](https://github.com/grantmcdermott/blueparadox){:target="_blank"}.)
+6. [Incorporating rules into end-to-end dialog systems.](http://alborz-geramifard.com/workshops/neurips19-Conversational-AI/Papers/43.pdf)<br/> 
+**Razumovskaia, E.** and Eskenazi, M. <br/>
+Published in <i>Conversational AI 3 workshop at NeurIPS 2019: “Today's Practice and Tomorrow's Potential”</i>, 2019.
 
-5. "The Blue Paradox: Preemptive Overfishing in Marine Reserves." With Kyle C. Meng, Gavin G. McDonald and Christopher J. Costello. Published in **<i>Proceedings of the National Academy of Sciences</i>**, 116 (12), 5319–5325, 2019. ([Paper](http://dx.doi.org/10.1073/pnas.1802862115){:target="_blank"}. [Ungated]({{ site.url }}/papers/mcdermott2019blueparadox.pdf){:target="_blank"}. [Code](https://github.com/grantmcdermott/blueparadox){:target="_blank"}. [Blog post and media coverage]({{ site.url }}/2018/08/29/blue-paradox-pnas/){:target="_blank"}.)
+5. [Pretraining Methods for Dialog Context Representation Learning.](https://www.aclweb.org/anthology/P19-1373.pdf)<br/> 
+Mehri, S.*, **Razumovskaia, E.\***, Zhao, T. and Eskenazi, M. <br/>
+Published in <i>Proceedings of the 57th Annual Meeting of the Association
+for Computational Linguistics (ACL)</i>, 3836-3846, 2019.
 
-4. "Protecting marine mammals, turtles and birds by rebuilding global fisheries." With Matthew G. Burgess and others. Published in **<i>Science</i>**, 359 (6381) 1255–31258, 2018. ([Paper](http://dx.doi.org/10.1126/science.aao4248){:target="_blank"}. [Ungated]({{ site.url }}/papers/burgess2018bycatch.pdf){:target="_blank"}.  [Code](https://github.com/grantmcdermott/bycatch){:target="_blank"}. [Blog post and media coverage]({{ site.url }}/2018/03/16/science-bycatch/){:target="_blank"}.)
+4. [Beyond Turing: Intelligent Agents Centered on the User](https://arxiv.org/abs/1901.06613)<br/> 
+Eskenazi, M., Mehri, S., **Razumovskaia, E.**, and Zhao, T.<br/>
+Published in <i>arXiv</i>, 2019.
 
-3. "Five rules for pragmatic blue growth." With Matthew G. Burgess and others. Published in **<i>Marine Policy</i>**, 87 (2018) 331–339, 2018. ([Paper](http://dx.doi.org/10.1016/j.marpol.2016.12.005){:target="_blank"}. [Ungated]({{ site.url }}/papers/burgess2018bluegrowth.pdf){:target="_blank"}.)
+3. [Evaluation of difficulty and complexity of tasks. Case study of international on-line competition “Beaver”](https://dialnet.unirioja.es/servlet/articulo?codigo=6910624)<br/> 
+Yagunova, E., Pozdniakov, S., Ryzhova, N., **Razumovskaia, E.**, Korovkin, N.<br/>
+Published in <i> The International Journal of Engineering Education</i>, 32(3), 1141-1150, 2016.
 
-2. "Resolving disputes over ocean calamities." With Matthew G. Burgess. Published in **<i>BioScience</i>**, 65(12), 1115-1116, 2015. ([Paper](http://dx.doi.org/10.1093/biosci/biv147){:target="_blank"}. [Ungated]({{ site.url }}/papers/burgess2015resolving.pdf){:target="_blank"}.)
 
-1. "Electricity prices, river temperatures and cooling water scarcity." With Øivind A. Nilsen. Published in **<i>Land Economics</i>**, 90(1), 131-148, 2014. ([Paper](http://dx.doi.org/10.3368/le.90.1.131){:target="_blank"}. [Ungated]({{ site.url }}/papers/mcdermott2014electricity.pdf){:target="_blank"}. [Blog post and media coverage]({{ site.url }}/2013/01/14/electricity-prices-river-temperatures-water-scarcity/){:target="_blank"}.)
+2. [Tasks classification and age differences in task perception. Case study of international on-line competition “Beaver”](https://core.ac.uk/download/pdf/77923211.pdf#page=39)<br/> 
+Yagunova, E., Pozdnyakov, S., Ryzhova, N., **Razumovskaia, E.**, Korovkin, N.<br/>
+Published in <i>The Proceedings of International Conference on Informatics in Schools: Situation, Evolution and
+Perspectives — ISSEP 2015.</i>, 33-43, 2015.
+
+1. [Analyses of difficulty and complexity of items in
+international on-line competition “Beaver”](http://www.ifip2015.mii.vu.lt/file/repository/IFIP_Proceedings.pdf)<br/> 
+Yagunova, E., Pozdnyakov, S., Ryzhova, N., **Razumovskaia, E.**, Korovkin, N.<br/>
+Published in <i>IFIP TC3 Working Conference
+“A New Culture of Learning:
+Computing and next Generations” Proceedings</i>, 285-297, 2015. 
 
