@@ -11,7 +11,7 @@ I am interested in all things about languages, maths and their beautiful interse
 
 If you have any questions, feel free to contact me by email or DM me on Twitter!  
 
-<vr>News:<br/>
+<br>News:<br/>
 
 <!--
 <p class="rss-subscribe">Subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}" target="_blank">via RSS</a>.</p>
