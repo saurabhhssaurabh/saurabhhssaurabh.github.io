@@ -1,6 +1,6 @@
 ---
 layout: page #was "home", but I don't need the latest blog feed template on the homepage
-title: Hi!
+title: Hi! 👋
 excerpt: "The personal website of Evgeniia Razumovskaia."
 tags: [Jekyll, theme, responsive, blog, template, Evgeniia-Razumovskaia, research, NLP, dialogue systems]
 ---
