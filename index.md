@@ -7,7 +7,7 @@ tags: [Jekyll, theme, responsive, blog, template, Evgeniia-Razumovskaia, researc
 
 I am a first year PhD student at the [LTL](http://ltl.mml.cam.ac.uk/) at University of Cambridge. Previously I did an internship at [Rasa](https://rasa.com/), a Masters degree at [LTI](https://www.lti.cs.cmu.edu/) at Carnegie Mellon University. I did my BSc at the University of Edinburgh. 
 
-I am interested in all things about languages, maths and their beautiful intersections such as computational linguistics. I love to think about the linguistic part of Natural Language Processing, and not only engineering part of it. In my time off, I really enjoy arts, movies, music and long walks. 
+My research focuses on dialogue systems and applications of existing NLP methods to dialogue. I love to think about the linguistic part of Natural Language Processing, and not approach it as an engineering part. In my time off, I really enjoy arts, movies, music and long walks. 
 
 If you have any questions, feel free to contact me by email or DM me on Twitter!  
 
