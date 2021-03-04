@@ -13,19 +13,7 @@ If you have any questions, feel free to contact me by email or DM me on Twitter!
 
 
 
-#### News:
-
-|
-|
-|
-|
-|
-|
-|
-|
-|
-|
-|
+<!-- #### News: -->
 
 
 <!--
