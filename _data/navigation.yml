@@ -19,8 +19,8 @@
 # - title: Software
 #   url: /software/
 
-# - title: Blog
-#   url: /blog/
+- title: Blog
+  url: /posts.html
 
 # - title: TWEEDS
 #   url: https://tweeds.io/
