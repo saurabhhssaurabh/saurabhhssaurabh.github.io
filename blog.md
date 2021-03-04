@@ -1,8 +1,40 @@
 ---
-layout: default
+layout: page
 title: Blog
 comments: false
 ---
+
+<style>
+
+  #thumbnail {
+    box-shadow: 0 5px 10px rgba(0,0,0,0.19), 0 3px 3px rgba(0,0,0,0.23);
+  }
+  #thumbnail:hover {
+    box-shadow: 0 12px 24px rgba(0,0,0,0.19), 0 8px 8px rgba(0,0,0,0.23);
+  }
+
+  .fullCard {
+    width: 750px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    margin: 10px 5px;
+    padding: 4px;
+
+  }
+  .cardContent {
+    padding: 10px;
+
+  }
+
+  .center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+</style>
+
+
 
 <style>
 
@@ -66,3 +98,6 @@ comments: false
 
     </div>
 </div>
+
+
+<!-- ################################################################################### -->
