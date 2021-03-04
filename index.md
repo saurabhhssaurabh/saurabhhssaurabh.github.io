@@ -11,7 +11,22 @@ My research focuses on dialogue systems and applications of existing NLP methods
 
 If you have any questions, feel free to contact me by email or DM me on Twitter!  
 
-<!-- #### News: -->
+
+
+#### News:
+
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+
 
 <!--
 <p class="rss-subscribe">Subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}" target="_blank">via RSS</a>.</p>
