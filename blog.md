@@ -42,9 +42,6 @@ comments: false
     <div class="cardContent">
 
         <h1 style="font-size:28px;">Welcome!</h1>
-
-        <br/>
-        <br/>
         <span style="font-size:15px;">
             What will this blog be about? Mostly Natural Language processing and Machine Learning research I find interesting, but not only :)
         </span>
