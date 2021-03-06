@@ -25,6 +25,7 @@ comments: false
   }
   .cardContent {
     padding: 10px;
+    margin: 10px 5px;
 
   }
 
@@ -58,7 +59,7 @@ comments: false
             Mostly Natural Language processing and Machine Learning research I find interesting, but not only :)
         </span>
 
-        <a class="pull-right" href="/posts/source_target_contributions_to_nmt.html" onMouseOver="document.readmore5.src='../resources/posts/buttons/button_read_more_push-min.png';" onMouseOut="document.readmore5.src='/images/buttons/read_more.png';">
+        <a class="pull-right" href="/posts/source_target_contributions_to_nmt.html" onMouseOver="document.readmore5.src='/images/buttons/read_more_on_push.png';" onMouseOut="document.readmore5.src='/images/buttons/read_more.png';">
         <img src="/images/buttons/read_more.png" name="readmore5" width=120px class="pull-right"></a>
         <a class="pull-right" href="https://arxiv.org/pdf/2010.10907.pdf" onMouseOver="document.readpaper5.src='../resources/posts/buttons/button_read_paper_push-min.png';" onMouseOut="document.readpaper5.src='../resources/posts/buttons/button_read_paper-min.png';">
         <img src="../resources/posts/buttons/button_read_paper-min.png" name="readpaper5" width=120px class="pull-right"></a>
