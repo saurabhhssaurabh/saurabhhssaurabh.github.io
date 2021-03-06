@@ -59,7 +59,7 @@ comments: false
             Mostly Natural Language processing and Machine Learning research I find interesting, but not only :)
         </span>
 
-        <a href="/posts/welcome_post.html">FFFFFFFFFFFFFFFFFFFFF
+        <a href="../posts/welcome_post.html">FFFFFFFFFFFFFFFFFFFFF
             </a>
 
         <br/>
