@@ -41,14 +41,14 @@ comments: false
 <div class="fullCard" id="thumbnail" >
     <div class="cardContent">
 
-        <h1 style="font-size:28px;">Ob-LaDi Ob-La-Da</h1>
+        <h1 style="font-size:28px;"></h1>
 
-        <span style="font-size:14px;">
+        <!-- <span style="font-size:14px;">
         This is a post for the paper
             <a href="None">
                 Life goes on by
             </a>
-        </span>
+        </span> -->
 
 
         <br/>
