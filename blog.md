@@ -25,7 +25,7 @@ comments: false
   }
   .cardContent {
     padding: 10px;
-    margin: 10px 10px;
+    margin: 10px 5px;
 
   }
 
@@ -60,6 +60,8 @@ comments: false
         </span>
 
         <br/>
+        <br/>
+
 
         <a class="pull-left" href="/posts/source_target_contributions_to_nmt.html" onMouseOver="document.readmore5.src='/images/buttons/read_more_on_push.png';" onMouseOut="document.readmore5.src='/images/buttons/read_more.png';">
         <img src="/images/buttons/read_more.png" name="readmore5" width=120px class="pull-left"></a>
