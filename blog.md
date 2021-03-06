@@ -59,11 +59,11 @@ comments: false
             Mostly Natural Language processing and Machine Learning research I find interesting, but not only :)
         </span>
 
-        <a class="pull-right" href="/posts/source_target_contributions_to_nmt.html" onMouseOver="document.readmore5.src='/images/buttons/read_more_on_push.png';" onMouseOut="document.readmore5.src='/images/buttons/read_more.png';">
-        <img src="/images/buttons/read_more.png" name="readmore5" width=120px class="pull-right"></a>
-        <a class="pull-right" href="https://arxiv.org/pdf/2010.10907.pdf" onMouseOver="document.readpaper5.src='../resources/posts/buttons/button_read_paper_push-min.png';" onMouseOut="document.readpaper5.src='../resources/posts/buttons/button_read_paper-min.png';">
+        <a class="pull-left" href="/posts/source_target_contributions_to_nmt.html" onMouseOver="document.readmore5.src='/images/buttons/read_more_on_push.png';" onMouseOut="document.readmore5.src='/images/buttons/read_more.png';">
+        <img src="/images/buttons/read_more.png" name="readmore5" width=120px class="pull-left"></a>
+        <!-- <a class="pull-right" href="https://arxiv.org/pdf/2010.10907.pdf" onMouseOver="document.readpaper5.src='../resources/posts/buttons/button_read_paper_push-min.png';" onMouseOut="document.readpaper5.src='../resources/posts/buttons/button_read_paper-min.png';">
         <img src="../resources/posts/buttons/button_read_paper-min.png" name="readpaper5" width=120px class="pull-right"></a>
-        <a class="pull-right" href="https://github.com/lena-voita/the-story-of-heads" onMouseOver="document.viewcode5.src='../resources/posts/buttons/button_view_code_push-min.png';" onMouseOut="document.viewcode5.src='../resources/posts/buttons/button_view_code-min.png';">
+        <a class="pull-right" href="https://github.com/lena-voita/the-story-of-heads" onMouseOver="document.viewcode5.src='../resources/posts/buttons/button_view_code_push-min.png';" onMouseOut="document.viewcode5.src='../resources/posts/buttons/button_view_code-min.png';"> -->
         <img src="../resources/posts/buttons/button_view_code-min.png" name="viewcode5" width=120px></a>
 
         <span style="font-size:15px; text-align: right; float: right; color:gray">March 2021</span>
