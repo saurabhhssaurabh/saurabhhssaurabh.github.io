@@ -60,7 +60,7 @@ comments: false
         </span>
 
         <br/>
-        <a class="pull-left" href="/images/welcome_post.md" onMouseOver="document.readmore5.src='/images/buttons/read_more_on_push.png';" onMouseOut="document.readmore5.src='/images/buttons/read_more.png';">
+        <a class="pull-left" href="/posts/welcome_post.html" onMouseOver="document.readmore5.src='/images/buttons/read_more_on_push.png';" onMouseOut="document.readmore5.src='/images/buttons/read_more.png';">
         <img src="/images/buttons/read_more.png" name="readmore5" width=120px class="pull-left"></a>
 
         <span style="font-size:15px; text-align: right; float: right; color:gray">March 2021</span>
