@@ -65,10 +65,6 @@ comments: false
         <img src="/images/buttons/read_more.png" name="readmore5" width=120px class="pull-left"></a>
 
         <span style="font-size:15px; text-align: right; float: right; color:gray">March 2021</span>
-
-        <br/>
-        <br/>
-
     </div>
 </div>
 
