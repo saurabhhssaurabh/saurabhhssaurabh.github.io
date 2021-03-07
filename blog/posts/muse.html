@@ -30,9 +30,15 @@ Yes, it's a weird <b>retro</b>spective which starts with a paper of year 2019. I
 <b>What is the solution proposed?</b>
 <br/>
 
-<i>Model</i>
+<b><i>Model</i></b>
 <br/>
 <img src="/../../images/posts/mUSE/model_encoder.png" style="max-width:55%; margin-left:20px;float:left;"/>
 <br/>
-The model architecture is as shown in the picture above. It is a <i>dual encoder</i> model: one side encodes the query, e.g., the question in the QA task, and the other side encodes all possible candidates, e.g., all possible responses in the QA tasks. The model computes a similarity metric between the query encoding and the response encodings. The output of the model is the response most similar to the query. 
+
+🔬The model architecture is as shown in the picture above. It is a <i>dual encoder</i> model: one side encodes the query, e.g., the question in the QA task, and the other side encodes all possible candidates, e.g., all possible responses in the QA tasks. 
+<br/>
+🔬The model computes a similarity metric between the query encoding and the response encodings. The output of the model is the response most similar to the query. 
+<br/>
+
+<b><i>Data</i></b>
 <br/>
