@@ -10,7 +10,7 @@ Yes, it's a weird <b>retro</b>spective which starts with a paper of year 2019. I
 <br/>
 <br/>
 
-<b>Preface</b>
+<span style="font-size:15px;"><b>Preface</b></span>
 <br/>
 
   🔲    Existing large language models such as BERT obtain state-of-the-art performance on many natural language understanding tasks. They are pretrained to create contextual word embeddings and sentence embeddings via masked language modelling and next sentence prediction. 
@@ -19,7 +19,7 @@ Yes, it's a weird <b>retro</b>spective which starts with a paper of year 2019. I
 
 <br/>
 <br/>
-<b>Problem</b>
+<span style="font-size:15px;"><b>Problem</b></span>
 <br/>
   🌎    For multilingual retrieval tasks, we require goood universal sentence encoder. By universal here I mean one that can capture semantics correctly in multiple domains in several languages. 
 <br/>
@@ -27,7 +27,7 @@ Yes, it's a weird <b>retro</b>spective which starts with a paper of year 2019. I
 
 <br/>
 <br/>
-<b>What is the solution proposed?</b>
+<span style="font-size:15px;"><b>What is the solution proposed?</b></span>
 <br/>
 
 <b><i>Model</i></b>
@@ -44,3 +44,71 @@ Yes, it's a weird <b>retro</b>spective which starts with a paper of year 2019. I
 
 <b><i>Data</i></b>
 <br/>
+
+For the languages covered, the data includes:
+<ul>
+<li>question answer pairs mined from Reddit, Stack overflow etc.</li>
+<li>translation pairs mined from the Web</li>
+<li><a href="https://nlp.stanford.edu/projects/snli/">Stanford NLI corpus</a></li>
+</ul>
+
+<br/>
+To make the amount of data equal across 16 languages, the data missing from one was translated into the other ones using Google Translate service. 
+
+
+<br/>
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-0lax{text-align:left;vertical-align:top}
+</style>
+Languages covered:
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-0lax">English (en)</th>
+    <th class="tg-0lax">French (fr)</th>
+    <th class="tg-0lax">Dutch (nl)</th>
+    <th class="tg-0lax">Thai (th)</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-0lax">Arabic (ar)</td>
+    <td class="tg-0lax">Italian (it)</td>
+    <td class="tg-0lax">Portuguese (pt)</td>
+    <td class="tg-0lax">Turkish (tr)</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">German (de)</td>
+    <td class="tg-0lax">Japanese (ja)</td>
+    <td class="tg-0lax">Polish (pl)</td>
+    <td class="tg-0lax">Chinese (zh; zh-tw)</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">Spanish (es)</td>
+    <td class="tg-0lax">Korean (ko)</td>
+    <td class="tg-0lax">Russian (ru)</td>
+    <td class="tg-0lax"></td>
+  </tr>
+</tbody>
+</table>
+
+<br/>
+<br/>
+
+<span style="font-size:15px;"><b>Results</b></span>
+<br/>
+
+⭐ Performs well across 16 languages; 
+<br/>
+⭐ Transfers the knowledge well to unseen retrieval tasks, e.g., sentence classification within SentEval.
+<br/>
+⭐ CNN model demonstrates worse performance than Transformer model but is far more resource efficient
+<br/>
+<br/>
+
+<span style="font-size:15px;"><b>And?</b></span>
