@@ -1,0 +1,40 @@
+---
+layout: page
+title: Massively Multilingual Sentence Embeddings for Zero-Shot Cross-Lingual Transfer and Beyond
+comments: false
+tags: [blog, Evgeniia-Razumovskaia, research, NLP, dialogue systems, welcome, phd-life, phd, LASER, multilingual sentence embeddings]
+---
+
+These notes are the second series of my retrospective of multilingual sentence encoders. You can find previous one <a href="https://evgeniiaraz.github.io/blog/posts/muse/">here</a>.
+<br/>
+<br/>
+
+<span style="font-size:14px;">
+The notes are on the paper
+    <b><a href="https://arxiv.org/pdf/1812.10464.pdf">
+        Massively Multilingual Sentence Embeddings for Zero-Shot Cross-Lingual Transfer and Beyond
+    </a></b>
+    by Mikel Artetxe and Holger Schwenk.
+</span>
+<br/>
+<br/>
+
+<span style="font-size:15px;"><b>Preface</b></span>
+<br/>
+
+  🔲    The overall problem is the same across this series: we are trying to have a sentence encoder which works well across tasks, languages and domains.
+
+<br/>
+<br/>
+
+<span style="font-size:15px;"><b>Synopsis of the previous episode</b></span>
+<br/>
+
+  🔲    We have a sentence encoder which works well in several languages and several domains but it was only tested on the 16 languages it was trained on.
+
+<br/>
+<br/>
+<span style="font-size:15px;"><b>Problem</b></span>
+<br/>
+<br/>
+  ❔    Can we train a sentence encoder which is general with respect to input language, script and NLP task we use it for?
