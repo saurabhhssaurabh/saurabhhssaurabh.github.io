@@ -30,11 +30,35 @@ The notes are on the paper
 <span style="font-size:15px;"><b>Synopsis of the previous episode</b></span>
 <br/>
 
-  🔲    We have a sentence encoder which works well in several languages and several domains but it was only tested on the 16 languages it was trained on.
+  ⏮️    We have a sentence encoder which works well in several languages and several domains but it was only tested on the 16 languages it was trained on.
 
 <br/>
 <br/>
 <span style="font-size:15px;"><b>Problem</b></span>
 <br/>
-<br/>
   ❔    Can we train a sentence encoder which is general with respect to input language, script and NLP task we use it for?
+
+<br/>
+<br/>
+<span style="font-size:15px;"><b>What is the solution proposed?</b></span>
+<br/>
+
+<b><i>Model</i></b>
+<br/>
+
+🔬The model is a sequence to sequence model trained for translation. 
+<br/>
+🔬 Strong sentence representation is obtained by passing <i>only</i> the overall sentence encoding to the decoder (unlike the usual translation pipeline where the decoder has access to the encoding of each token in the sentence).
+<br/>
+🔬 Each input sequence was jointly translated only into two languages (en, es) and not all 93 languages for two reasons -- no need for  93-way parallel corpus, no need to train 93 decoders.
+<br/>
+🔬 The architecture is a a biLSTM preceded by BPE encodings. 
+<br/>
+
+<b><i>Data</i></b>
+<br/>
+💽 A set 223 million parallel sentences --  a combination of United Nations, OpenSubs etc.
+<br/>
+💽 The 93 languages come from more than 30 language families and written in 28 different scripts.
+<br/>
+<br/>
