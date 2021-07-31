@@ -48,5 +48,5 @@ Computing and next Generations” Proceedings</i>, 285-297, 2015.
 
 ## Talks
 
-1. [End-to-end dialogue systems, or a feature which wasn’t meant to happen](https://www.youtube.com/watch?v=27rH1JfxvzI&t=11s)
-Talk at **Rasa Summit 2021** summarising the work I did during my internship at Rasa
+1. [End-to-end dialogue systems, or a feature which wasn’t meant to happen](https://www.youtube.com/watch?v=27rH1JfxvzI&t=11s)<br/>
+Talk at **Rasa Summit 2021** summarising the work I did during my internship at Rasa<br/>
