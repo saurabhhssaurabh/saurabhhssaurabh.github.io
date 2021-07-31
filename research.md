@@ -11,6 +11,10 @@ comments: false
 
 ## Publications
 
+
+7. [Crossing the Conversational Chasm: A Primer on Natural Language Processing for Multilingual Task-Oriented Dialogue Systems](https://arxiv.org/abs/2104.08570)<br/>
+**Evgeniia Razumovskaia**, Goran Glavaš, Olga Majewska, Edoardo M. Ponti, Anna Korhonen and Ivan Vulić <br/>
+
 6. [Incorporating rules into end-to-end dialog systems.](http://alborz-geramifard.com/workshops/neurips19-Conversational-AI/Papers/43.pdf)<br/> 
 **Razumovskaia, E.** and Eskenazi, M. <br/>
 Published in <i>Conversational AI 3 workshop at NeurIPS 2019: “Today's Practice and Tomorrow's Potential”</i>, 2019.
@@ -41,3 +45,8 @@ Published in <i>IFIP TC3 Working Conference
 “A New Culture of Learning:
 Computing and next Generations” Proceedings</i>, 285-297, 2015. 
 
+
+## Talks
+
+1. [End-to-end dialogue systems, or a feature which wasn’t meant to happen](https://www.youtube.com/watch?v=27rH1JfxvzI&t=11s)
+Talk at **Rasa Summit 2021** summarising the work I did during my internship at Rasa
