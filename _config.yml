@@ -1,6 +1,6 @@
 # Site wide configuration
 
-title: Evgeniia Razumovskaia
+title: Saurabh Jain
 locale: en_US
 ## To build the website locally, comment out the previous line and run
 ## in terminal: 'bundle ex jekyll serve'. The website will be hosted at
@@ -44,14 +44,14 @@ titlecase: true
 
 # Site owner
 owner:
-  name: Evgeniia Razumovskaia
-  avatar: my_photo_squared.jpg
-  bio: "PhD student</br>University of Cambridge"
-  email: er563@cam.ac.uk
+  name: Saurabh Jain
+  avatar: me.jpg
+  bio: "Natural Language Processing Researcher"
+  email: saurabhjain@u.nus.edu
   # disqus-shortname: grantmcdermott-blog
-  twitter: erazumovskaia
+  twitter: saurabhhjjain
   facebook: #username
-  google_scholar: # EruWDMwAAAAJ
+  google_scholar: enDV2f0AAAAJ # EruWDMwAAAAJ
   google:
     # plus: #username
     # analytics: UA-76482472-1
@@ -60,9 +60,9 @@ owner:
     # ad-slot:
   # orcid: 0000-0001-7883-8573
   bing-verify:
-  github: evgeniiaraz
+  github: saurabhhssaurabh
   stackoverflow: #123456/username   from a "http://stackoverflow.com/users/123456/username" link
-  linkedin: # grant-mcdermott-b8637419
+  linkedin: saurabhsaurabh # grant-mcdermott-b8637419
   xing: #username
   instagram: #username
   lastfm: #username
